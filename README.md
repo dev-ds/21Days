@@ -6,4 +6,4 @@ author: 		dev-ds
 Language: 		Python
 Skill Level:	Intermediate
 
-Day 01: 
+Day 01:   
